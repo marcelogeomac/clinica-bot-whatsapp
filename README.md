@@ -14,6 +14,12 @@ Este é um chatbot para WhatsApp desenvolvido com **Python**, **Flask** e **Twil
 - Twilio API (Integração WhatsApp)
 - Ngrok (Exposição do servidor local)
 
+## 🛡️ Security & Privacy
+- O projeto segue principios de Privacy by Desing
+- uso de variaveis de ambiente e chaves de API
+- varreduras CodeQL
+![GitHub Code Scanning](https://img.shields.io)
+
 ## 📦 Como instalar
 1. Clone o repositório:
    ```bash
