@@ -114,7 +114,7 @@ def bot():
         res.message(f"✅ Confirmado, {nome}!\nSua consulta de {esp} foi marcada para {msg}.")
         # Volta para o menu
         user_state[user_id]["step"] = "menu"
-        res.message("Como posso ajudar agora?\n1. Especialidades\n2. Agendar\n3. Meus Agendamentos\n0. Sair")
+
        
     return str(res)
 
